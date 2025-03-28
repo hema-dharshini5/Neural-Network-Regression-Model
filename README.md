@@ -45,7 +45,7 @@ Evaluate the model with the testing data.
 ## PROGRAM
 ### Name:Hema Dharshini N
 ### Register Number:212223220034
-```
+```python
 class NeuralNet(nn.Module):
     def __init__(self):
         super().__init__()
