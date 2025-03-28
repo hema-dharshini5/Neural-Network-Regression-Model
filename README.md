@@ -102,13 +102,14 @@ print(f'Prediction: {prediction}')
 ![WhatsApp Image 2025-03-23 at 14 00 12_9aa4119a](https://github.com/user-attachments/assets/244367c0-644f-4fa1-aaac-51f5ed450ec5)
 
 ### Training Loss Vs Iteration Plot
+![Screenshot 2025-03-27 090708](https://github.com/user-attachments/assets/7d703b27-7a56-4fab-817c-7e26b40a9576)
 
-![image](https://github.com/user-attachments/assets/7f25f156-d795-4938-a314-d56da4535683)
 ### New Sample Data Prediction
 
 ![image](https://github.com/user-attachments/assets/4847c7f3-5066-4aac-947e-c56c0321a1f4)
 
-![image](https://github.com/user-attachments/assets/e1b100ab-677e-4088-884e-14d812f6406d)
+![Screenshot 2025-03-27 090858](https://github.com/user-attachments/assets/1e0fe74e-74a2-4e27-9af5-5999777f43cf)
+
 
 ## RESULT:
 
